@@ -16,7 +16,6 @@
 - **Backend**: Node.js and Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
-- **State Management**: Redux (optional)
 
 ## Getting Started
 Follow these instructions to set up the project locally.
@@ -73,16 +72,6 @@ Follow these instructions to set up the project locally.
 
 # Topics
 Hospital Management, MERN Stack, MongoDB, Express.js, React, Node.js, Healthcare App, Patient Records, Appointments.
-
-# Contributors
-Niraj Kumar [Github](https://github.com/meniraj07)
-
-# Deployment Links
-[Prescripto Backend](https://prescriptobackend-4ylq.onrender.com)
-
-[Prescripto Patient Panel](https://prescripto-hospital-management-system.vercel.app/)
-
-[Prescripto Admin/Doctor Panel](https://prescripto-hospital-management-system-c29o.vercel.app/)
 
 # Contact
 For any questions or feedback, please contact [Niraj Kumar](https://www.linkedin.com/in/nirajkumar-nk/)
