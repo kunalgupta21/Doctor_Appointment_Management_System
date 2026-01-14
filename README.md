@@ -72,9 +72,3 @@ Follow these instructions to set up the project locally.
 
 # Topics
 Hospital Management, MERN Stack, MongoDB, Express.js, React, Node.js, Healthcare App, Patient Records, Appointments.
-
-# Contact
-For any questions or feedback, please contact [Niraj Kumar](https://www.linkedin.com/in/nirajkumar-nk/)
-
-# License
-This project is licensed under the MIT License.
